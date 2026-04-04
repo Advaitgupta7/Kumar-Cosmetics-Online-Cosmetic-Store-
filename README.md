@@ -101,7 +101,7 @@ Ready to deploy **Kumar Kosmetics**? Follow these steps.
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/kumar-kosmetics.git
+git clone https://github.com/Advaitgupta7/Kumar-Kosmetics.git
 cd Kumar-Kosmetics
 
 # 📦 Backend Setup
@@ -158,7 +158,7 @@ Distributed under the **ISC License**. See `LICENSE` for more information.
 
 ### 🤝 Join the Revolution
 
-_Made by Keshav Chauhan_
+_Made by Advait Gupta_
 
 [Report Bug](https://github.com/your-username/kumar-kosmetics/issues) • [Request Feature](https://github.com/your-username/kumar-kosmetics/issues)
 
