@@ -101,7 +101,7 @@ Ready to deploy **Kumar Kosmetics**? Follow these steps.
 
 ```bash
 # Clone the repository
-git clone https://github.com/Advaitgupta7/Kumar-Kosmetics.git
+git clone https://github.com/Advaitgupta7/Kumar-Cosmetics-Online-Cosmetic-Store-
 cd Kumar-Kosmetics
 
 # 📦 Backend Setup
